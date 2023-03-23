@@ -4,7 +4,6 @@ Projeto de Landing Page para uma empresa fictícia de fotografia.
 ## Tecnologias utilizadas
 - HTML
 - CSS
-- Javascript
 
 ## Site
 <a href="https://switvchphotography.netlify.app/">Clique aqui</a> para acessar.
