@@ -1,5 +1,5 @@
-# Calculadora IMC
-Realiza o cálcula do índice de massa corporal.
+# Landing Page
+Projeto de Landing Page para uma empresa fictícia de fotografia.
 
 ## Tecnologias utilizadas
 - HTML
@@ -7,7 +7,7 @@ Realiza o cálcula do índice de massa corporal.
 - Javascript
 
 ## Site
-<a href="https://calculadora-imc1.netlify.app/">Clique aqui</a> para acessar.
+<a href="https://switvchphotography.netlify.app/">Clique aqui</a> para acessar.
 
 ## Preview
-![alt text](https://github.com/lucasreald/Calculadora-IMC/blob/main/img/siteImg.png?raw=true)
+![alt text](![image](https://user-images.githubusercontent.com/127785826/227385451-bb55b7f3-fb38-42b9-bbf0-e68424353cd7.png))
